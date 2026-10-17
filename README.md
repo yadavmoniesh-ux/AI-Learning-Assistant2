@@ -241,7 +241,7 @@ The main objective of this project is to demonstrate how artificial intelligence
 
 ## 👨‍💻 Author
 
-**YOUR NAME**
+Moniesh yadav
 
 Computer Science and Engineering Student
 
