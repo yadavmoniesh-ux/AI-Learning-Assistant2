@@ -245,7 +245,7 @@ Moniesh yadav
 
 Computer Science and Engineering Student
 
-GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub:https://github.com/yadavmoniesh-ux
 
 ## 📄 License
 
